@@ -1,0 +1,132 @@
+totcluster=1800
+ok read halo catalogue = 8.024534e-01
+ok read nbody output = 9.767473e-01
+LL=0.560000
+No of threads = 160
+MM=262144
+, N1=32
+ok cic_vmass of dark matter= 1.056734e+00
+Nmin=10
+newtotcluster=1800
+nion=23.209999
+ok smoothing = 3.470208e+00
+vol. avg. x_HI=6.904226e-01, mass avg. x_HI=5.591710e-01
+ok cic_vmass redshift space = 1.340483e+00
+mass avg. x_HI=5.591710e-01
+nion=26.540001
+ok smoothing = 2.969674e+00
+vol. avg. x_HI=6.261340e-01, mass avg. x_HI=4.981096e-01
+ok cic_vmass redshift space = 1.074588e+00
+mass avg. x_HI=4.981096e-01
+nion=29.879999
+ok smoothing = 2.242909e+00
+vol. avg. x_HI=5.483710e-01, mass avg. x_HI=4.298267e-01
+ok cic_vmass redshift space = 1.908564e+00
+mass avg. x_HI=4.298267e-01
+nion=33.209999
+ok smoothing = 9.305488e-01
+vol. avg. x_HI=4.274645e-01, mass avg. x_HI=3.303402e-01
+ok cic_vmass redshift space = 6.358459e-01
+mass avg. x_HI=3.303402e-01
+Nmin=15
+newtotcluster=906
+nion=23.209999
+ok smoothing = 3.042272e+00
+vol. avg. x_HI=7.723253e-01, mass avg. x_HI=6.511696e-01
+ok cic_vmass redshift space = 1.471323e+00
+mass avg. x_HI=6.511696e-01
+nion=26.540001
+ok smoothing = 1.661935e+00
+vol. avg. x_HI=7.232484e-01, mass avg. x_HI=5.998158e-01
+ok cic_vmass redshift space = 6.772370e-01
+mass avg. x_HI=5.998158e-01
+nion=29.879999
+ok smoothing = 2.571368e+00
+vol. avg. x_HI=6.721501e-01, mass avg. x_HI=5.491743e-01
+ok cic_vmass redshift space = 1.104106e+00
+mass avg. x_HI=5.491743e-01
+nion=33.209999
+ok smoothing = 1.825732e+00
+vol. avg. x_HI=6.187785e-01, mass avg. x_HI=4.994851e-01
+ok cic_vmass redshift space = 8.793115e-01
+mass avg. x_HI=4.994851e-01
+Nmin=20
+newtotcluster=671
+nion=23.209999
+ok smoothing = 1.783875e+00
+vol. avg. x_HI=8.002313e-01, mass avg. x_HI=6.845750e-01
+ok cic_vmass redshift space = 7.555431e-01
+mass avg. x_HI=6.845750e-01
+nion=26.540001
+ok smoothing = 1.918194e+00
+vol. avg. x_HI=7.565432e-01, mass avg. x_HI=6.381087e-01
+ok cic_vmass redshift space = 1.062213e+00
+mass avg. x_HI=6.381087e-01
+nion=29.879999
+ok smoothing = 1.909008e+00
+vol. avg. x_HI=7.106396e-01, mass avg. x_HI=5.907057e-01
+ok cic_vmass redshift space = 9.021020e-01
+mass avg. x_HI=5.907057e-01
+nion=33.209999
+ok smoothing = 4.016913e+00
+vol. avg. x_HI=6.647103e-01, mass avg. x_HI=5.460877e-01
+ok cic_vmass redshift space = 9.750178e-01
+mass avg. x_HI=5.460876e-01
+Nmin=25
+newtotcluster=486
+nion=23.209999
+ok smoothing = 1.396598e+00
+vol. avg. x_HI=8.275274e-01, mass avg. x_HI=7.189927e-01
+ok cic_vmass redshift space = 8.258116e-01
+mass avg. x_HI=7.189927e-01
+nion=26.540001
+ok smoothing = 1.856564e+00
+vol. avg. x_HI=7.903357e-01, mass avg. x_HI=6.785636e-01
+ok cic_vmass redshift space = 1.339872e+00
+mass avg. x_HI=6.785636e-01
+nion=29.879999
+ok smoothing = 7.979253e-01
+vol. avg. x_HI=7.488820e-01, mass avg. x_HI=6.349846e-01
+ok cic_vmass redshift space = 1.311138e+00
+mass avg. x_HI=6.349846e-01
+nion=33.209999
+ok smoothing = 2.018365e+00
+vol. avg. x_HI=7.085582e-01, mass avg. x_HI=5.940989e-01
+ok cic_vmass redshift space = 1.108972e+00
+mass avg. x_HI=5.940989e-01
+ok time taken= 2.033829e+00
+
+done. Total time taken = 0hr 1min 9sec
+totcluster=3295363
+ok read halo catalogue = 1.794063e+00
+ok read nbody output = 1.202673e+02
+LL=0.560000
+No of threads = 160
+MM=452984832
+, N1=384
+ok cic_vmass of dark matter= 2.655943e+02
+Nmin=10
+newtotcluster=3295363
+nion=23.209999
+ok smoothing = 6.034175e+04
+vol. avg. x_HI=5.394848e-01, mass avg. x_HI=5.660539e-01
+ok cic_vmass redshift space = 2.559691e+02
+mass avg. x_HI=5.660539e-01
+nion=0.000000
+ok smoothing = 2.184193e+04
+vol. avg. x_HI=1.000000e+00, mass avg. x_HI=1.000000e+00
+ok cic_vmass redshift space = 2.553278e+02
+mass avg. x_HI=1.000000e+00
+nion=0.000000
+ok smoothing = 7.100178e+02
+vol. avg. x_HI=1.000000e+00, mass avg. x_HI=1.000000e+00
+ok cic_vmass redshift space = 2.540085e+02
+mass avg. x_HI=1.000000e+00
+nion=0.000000
+ok smoothing = 7.372215e+02
+vol. avg. x_HI=1.000000e+00, mass avg. x_HI=1.000000e+00
+ok cic_vmass redshift space = 2.468125e+02
+mass avg. x_HI=1.000000e+00
+ok time taken= 2.610284e+02
+
+done. Total time taken = 24hr 4min 8sec
